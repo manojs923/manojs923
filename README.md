@@ -1,56 +1,158 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30&height=180&section=header&text=Welcome%20to%20Manoj's%20Github&fontSize=28&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" />
+
+<!-- Animated custom GIF banner. Keep assets/developer-animation.gif in this repository. -->
+<img src="assets/developer-animation.gif" width="100%" alt="Animated Manoj Kumar developer banner" />
+
+
+<a href="https://linkedin.com/in/manoj-sudi">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/manojs923">
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="mailto:manoj.sudi@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+
+
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Computer+Science+Engineering+Student;Building+Full-Stack+Applications;Exploring+Cloud+and+DevOps;Learning+Generative+AI+and+LLMs" alt="Typing intro"/>
+
 </div>
 
-<p align="center">
-  <a href="https://linkedin.com/in/manoj-sudi"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/manojs923"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="mailto:manoj.sudi@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-</p>
-
----
-
-### 🎯 Technologies
-
+👋 About Me
+name: Manoj Kumar S
+role: Computer Science Engineering Student
+interests:
+  - Full-Stack Development
+  - Backend Engineering
+  - Cloud Computing & DevOps
+  - Generative AI and LLM Applications
+approach: Build, learn, improve, repeat
+I enjoy creating practical software projects, learning how systems work end-to-end, and turning ideas into working applications. I'm currently strengthening my skills through hands-on development, coding practice, and cloud deployment experiments.
+⚡ Tech Stack
 <div align="center">
 
-| Category | Badges |
-| :--- | :--- |
-| **Languages & Core** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/JAVA-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **Frontend & UI** | ![React](https://img.shields.io/badge/REACT-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind CSS](https://img.shields.io/badge/TAILWIND_CSS-38BDF8?style=flat-square&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/VITE-646CFF?style=flat-square&logo=vite&logoColor=white) |
-| **Backend & DB** | ![Node.js](https://img.shields.io/badge/NODE.JS-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FASTAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
-| **Cloud & DevOps** | ![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Terraform](https://img.shields.io/badge/TERRAFORM-844FBA?style=flat-square&logo=terraform&logoColor=white) ![Linux](https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black) |
-| **Tools & Workflow** | ![Git](https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GITHUB_ACTIONS-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Figma](https://img.shields.io/badge/FIGMA-F24E1E?style=flat-square&logo=figma&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
+Languages
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,cpp&theme=dark" alt="Java, JavaScript, TypeScript, Python and C++"/>
+
+
+Frontend
+<img src="https://skillicons.dev/icons?i=react,tailwind,vite,html,css&theme=dark" alt="React, Tailwind, Vite, HTML and CSS"/>
+
+
+Backend & Databases
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,fastapi&theme=dark" alt="Node.js, Express, MongoDB, PostgreSQL and FastAPI"/>
+
+
+Cloud, DevOps & Tools
+<img src="https://skillicons.dev/icons?i=aws,docker,terraform,linux,git,githubactions,jenkins,vscode&theme=dark" alt="AWS, Docker, Terraform, Linux, Git, GitHub Actions, Jenkins and VS Code"/>
 
 </div>
 
----
+📊 GitHub Analytics
+<div align="center">
 
-### 📊 Statistics
+<a href="https://github.com/manojs923">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=manojs923&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics"/>
+</a>
+<a href="https://github.com/manojs923">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojs923&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
+</a>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manojs923&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Manoj's Stats" />
-</p>
 
----
+<img width="70%" src="https://streak-stats.demolab.com?user=manojs923&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 
-### ☕ About Me
+</div>
+
+Note: These cards depend on external services and may occasionally be unavailable. Language statistics are estimates based on repository code, not a measurement of proficiency.
+
+📈 Contribution Graph
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=manojs923&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution activity graph"/>
+
+</div>
+
+🚀 Featured Projects
+<!-- Replace the repository URLs below with the exact project repository links before publishing. -->
 
 <table>
-  <tr>
-    <td width="30%" align="center">
-      <img src="https://avatars.githubusercontent.com/u/89854127?v=4" width="140px" style="border-radius: 50%;" alt="Avatar"/>
-    </td>
-    <td width="70%">
-      Hello! My name is Manoj, and I am a Computer Science Engineering student passionate about building scalable full-stack web systems, cloud infrastructure, and intent-driven GenAI applications. Currently, I am sharpening my expertise across React, Node.js, Python, PostgreSQL, and modern cloud deployment pipelines, focusing on high-performance backend architectures and continuous growth in the tech ecosystem.
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+🍲 Smart Food Management System
+A MERN-stack project concept for managing food inventory, user workflows, notifications, chat, farmer profiles, and reports.
+
+Built with: React · Node.js · Express · MongoDB · Socket.IO · JWT
+
+Browse my repositories
+</td>
+<td width="50%" valign="top">
+
+🧠 QuizArena
+A real-time quiz platform concept with teacher-created quizzes, live leaderboards, and AI-assisted quiz generation.
+
+Built with: React · Tailwind CSS · Node.js · Express · MongoDB · Socket.IO
+
+Browse my repositories
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+🏟️ Smart Stadium AI Assistant
+A stadium-assistance project concept featuring crowd information, navigation, and shortest-path routing.
+
+Built with: React · Node.js · Express · Tailwind CSS · Dijkstra's algorithm
+
+Browse my repositories
+</td>
+<td width="50%" valign="top">
+
+☁️ Cloud & DevOps Practice
+Hands-on experiments with cloud infrastructure, containers, CI/CD pipelines, and deployment automation.
+
+Exploring: AWS · Docker · Jenkins · GitHub Actions · Linux
+
+Browse my repositories
+</td>
+</tr>
 </table>
 
----
+🐍 Contribution Snake
+<!-- The snake image is generated by the GitHub Actions workflow below. -->
+<div align="center">
 
-### 🎮 Hobbies & Goals
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manojs923/manojs923/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manojs923/manojs923/output/github-contribution-grid-snake.svg">
+  <img alt="Animated snake moving across the GitHub contribution graph" src="https://raw.githubusercontent.com/manojs923/manojs923/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
 
-* 🚀 **Building Intelligent Systems:** Exploring agentic workflows, LLM embedding integration, and automated cloud deployments.
-* 🏐 **Sports & Strategy:** Active player in volleyball and handball, emphasizing team coordination, speed, and tactical execution.
-* 💬 *"First-principles thinking is the best way to reason through complex system failures."*
+</div>
+
+🎯 Current Focus
+- Building and improving full-stack applications.
+- Practising Java and data structures and algorithms.
+- Learning cloud infrastructure and CI/CD workflows.
+- Exploring LLM-powered features and practical GenAI use cases.
+🤝 Let's Connect
+I'm always interested in learning from other developers, collaborating on useful projects, and exploring new technologies.
+<div align="center">
+
+<a href="https://github.com/manojs923?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore-My%20Repositories-38BDF8?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
+</a>
+
+
+
+
+<img src="https://komarev.com/ghpvc/?username=manojs923&style=for-the-badge&color=312E81&label=PROFILE+VIEWS" alt="Profile views"/>
+
+
+
+
+“First-principles thinking is the best way to reason through complex system failures.”
+</div>
