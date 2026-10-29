@@ -1,40 +1,47 @@
 
 <div align="center">
 
-<img src="assets/cinematic-banner.gif" width="100%" alt="Animated monochrome landscape banner"/>
+<!-- CINEMATIC ANIMATED BANNER -->
+<img src="./cinematic-banner.gif" width="100%" alt="Manoj's animated GitHub banner"/>
 
 <br/>
 
-<a href="https://linkedin.com/in/manoj-sudi"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/manojs923"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="mailto:manoj.sudi@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/manoj-sudi">
+  <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/manojs923">
+  <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="mailto:manoj.sudi@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Computer+Science+Engineering+Student;Full-Stack+Developer;Cloud+%7C+DevOps+%7C+GenAI" alt="Animated typing introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=550&lines=Computer+Science+Engineering+Student;Full-Stack+Developer;Cloud+%7C+DevOps+%7C+Generative+AI" alt="Animated typing introduction"/>
 
 </div>
 
 ---
 
-## 👨🏻‍💻 About Me
+## 👨‍💻 About Me
 
 <table>
 <tr>
-<td width="65%" valign="middle">
+<td width="68%" valign="middle">
 
-Hello! I'm **Manoj Kumar S**, a Computer Science Engineering student passionate about software development and emerging technologies.
+Hello! I'm **Manoj Kumar S**, a Computer Science Engineering student interested in building practical software applications and exploring modern technologies.
 
-- 🎓 Computer Science Engineering student
-- 💻 Building full-stack web applications
-- ☁️ Exploring cloud computing and DevOps
-- 🤖 Interested in Generative AI and LLM applications
-- 🚀 Learning through practical projects and experimentation
+- 🎓 Computer Science Engineering
+- 💻 Full-stack and backend development
+- ☁️ Cloud computing and DevOps
+- 🤖 Generative AI and LLM applications
+- 🚀 Learning by building real-world projects
 
 </td>
-<td width="35%" align="center" valign="middle">
+<td width="32%" align="center" valign="middle">
 
-<img src="assets/floating-astronaut.gif" width="220" alt="Animated floating astronaut"/>
+<img src="./floating-astronaut.gif" width="220" alt="Animated floating astronaut"/>
 
 </td>
 </tr>
@@ -42,15 +49,15 @@ Hello! I'm **Manoj Kumar S**, a Computer Science Engineering student passionate 
 
 ---
 
-## ⚙️ Technologies & Tools
+## 🛠️ Technologies & Tools
 
 <div align="center">
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=java,js,ts,python,cpp&theme=dark" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,cpp&theme=dark" alt="Programming languages"/>
 
-**Frontend**
+**Frontend Development**
 
 <img src="https://skillicons.dev/icons?i=react,tailwind,vite,html,css&theme=dark" alt="Frontend technologies"/>
 
@@ -58,9 +65,9 @@ Hello! I'm **Manoj Kumar S**, a Computer Science Engineering student passionate 
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,fastapi&theme=dark" alt="Backend technologies"/>
 
-**Cloud & DevOps**
+**Cloud, DevOps & Tools**
 
-<img src="https://skillicons.dev/icons?i=aws,docker,terraform,linux,git,githubactions,jenkins&theme=dark" alt="Cloud and DevOps tools"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,terraform,linux,git,githubactions,jenkins,vscode&theme=dark" alt="Cloud and DevOps tools"/>
 
 </div>
 
@@ -71,16 +78,16 @@ Hello! I'm **Manoj Kumar S**, a Computer Science Engineering student passionate 
 <div align="center">
 
 <a href="https://github.com/manojs923">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=manojs923&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&icon_color=FFFFFF&rank_icon=github" alt="GitHub statistics"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=manojs923&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
 </a>
 
 <a href="https://github.com/manojs923">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojs923&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&langs_count=6" alt="Top programming languages"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojs923&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Top programming languages"/>
 </a>
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=manojs923&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=C9D1D9&dates=888888" alt="GitHub streak statistics"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=manojs923&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak"/>
 
 </div>
 
@@ -90,7 +97,7 @@ Hello! I'm **Manoj Kumar S**, a Computer Science Engineering student passionate 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=manojs923&bg_color=0D1117&color=C9D1D9&line=FFFFFF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=manojs923&theme=github-compact&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
 
 </div>
 
@@ -104,9 +111,9 @@ Hello! I'm **Manoj Kumar S**, a Computer Science Engineering student passionate 
 
 ### 🍲 Smart Food Management System
 
-A MERN-stack application for food inventory management, notifications, user management, chat, farmer profiles, and reporting.
+A full-stack project for managing food inventory, notifications, user accounts, chat, farmer profiles, and reporting.
 
-**Technologies**
+**Tech Stack**
 
 `React` `Node.js` `Express` `MongoDB` `Socket.IO` `JWT`
 
@@ -117,9 +124,9 @@ A MERN-stack application for food inventory management, notifications, user mana
 
 A real-time quiz platform featuring quiz creation, live leaderboards, and AI-assisted quiz generation.
 
-**Technologies**
+**Tech Stack**
 
-`React` `Tailwind CSS` `Node.js` `MongoDB` `Socket.IO`
+`React` `Tailwind CSS` `Node.js` `Express` `MongoDB` `Socket.IO`
 
 </td>
 </tr>
@@ -130,18 +137,18 @@ A real-time quiz platform featuring quiz creation, live leaderboards, and AI-ass
 
 A stadium-assistance project concept featuring crowd information and shortest-path navigation.
 
-**Technologies**
+**Tech Stack**
 
-`React` `Node.js` `Express` `Dijkstra's Algorithm`
+`React` `Node.js` `Express` `Tailwind CSS` `Dijkstra's Algorithm`
 
 </td>
 <td width="50%" valign="top">
 
-### ☁️ Cloud & DevOps
+### ☁️ Cloud & DevOps Practice
 
-Hands-on experiments in cloud infrastructure, containerization, CI/CD, and deployment automation.
+Practical exploration of cloud infrastructure, containers, deployment pipelines, and automation.
 
-**Technologies**
+**Tech Stack**
 
 `AWS` `Docker` `Jenkins` `GitHub Actions` `Linux`
 
@@ -152,7 +159,7 @@ Hands-on experiments in cloud infrastructure, containerization, CI/CD, and deplo
 <div align="center">
 
 <a href="https://github.com/manojs923?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW%20ALL%20PROJECTS-000000?style=for-the-badge&logo=github&logoColor=white" alt="View all projects"/>
+  <img src="https://img.shields.io/badge/VIEW%20ALL%20PROJECTS-000000?style=for-the-badge&logo=github&logoColor=white" alt="View repositories"/>
 </a>
 
 </div>
@@ -164,8 +171,8 @@ Hands-on experiments in cloud infrastructure, containerization, CI/CD, and deplo
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manojs923/manojs923/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manojs923/manojs923/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manojs923/manojs923/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manojs923/manojs923/output/github-contribution-grid-snake.svg"/>
   <img src="https://raw.githubusercontent.com/manojs923/manojs923/output/github-contribution-grid-snake.svg" width="100%" alt="Animated contribution snake"/>
 </picture>
 
@@ -176,9 +183,9 @@ Hands-on experiments in cloud infrastructure, containerization, CI/CD, and deplo
 ## 🎯 Current Focus
 
 - Improving Java and problem-solving skills
-- Developing full-stack applications
+- Building full-stack applications
 - Exploring cloud infrastructure and CI/CD
-- Learning about LLMs and GenAI applications
+- Learning about LLMs and Generative AI
 
 ---
 
@@ -188,7 +195,7 @@ Hands-on experiments in cloud infrastructure, containerization, CI/CD, and deplo
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=manojs923&style=flat-square&color=000000&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=manojs923&style=flat-square&color=000000&label=PROFILE+VIEWS" alt="GitHub profile views"/>
 
 <br/><br/>
 
