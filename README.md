@@ -1,12 +1,11 @@
+ <div align="center">
 
-<div align="center">
-
-<!-- CINEMATIC ANIMATED BANNER -->
+<!-- CINEMATIC ANIMATED BANNER: keep cinematic-banner.gif in repository root -->
 <img src="./cinematic-banner.gif" width="100%" alt="Manoj's animated GitHub banner"/>
 
 <br/>
 
-<a href="https://linkedin.com/in/manoj-s-44042032b">
+<a href="https://www.linkedin.com/in/manoj-s-44042032b">
   <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/manojs923">
@@ -41,6 +40,7 @@ Hello! I'm **Manoj Kumar S**, a Computer Science Engineering student interested 
 </td>
 <td width="32%" align="center" valign="middle">
 
+<!-- ANIMATED ASTRONAUT: keep floating-astronaut.gif in repository root -->
 <img src="./floating-astronaut.gif" width="220" alt="Animated floating astronaut"/>
 
 </td>
@@ -111,7 +111,7 @@ Hello! I'm **Manoj Kumar S**, a Computer Science Engineering student interested 
 
 ### 🍲 Smart Food Management System
 
-A full-stack project for managing food inventory, notifications, user accounts, chat, farmer profiles, and reporting.
+A full-stack application for managing food inventory, notifications, user accounts, chat, farmer profiles, and reporting.
 
 **Tech Stack**
 
@@ -135,7 +135,7 @@ A real-time quiz platform featuring quiz creation, live leaderboards, and AI-ass
 
 ### 🏟️ Smart Stadium AI Assistant
 
-A stadium-assistance project concept featuring crowd information and shortest-path navigation.
+A stadium-assistance project featuring simulated crowd information and shortest-path navigation.
 
 **Tech Stack**
 
@@ -146,7 +146,7 @@ A stadium-assistance project concept featuring crowd information and shortest-pa
 
 ### ☁️ Cloud & DevOps Practice
 
-Practical exploration of cloud infrastructure, containers, deployment pipelines, and automation.
+Hands-on exploration of cloud infrastructure, containers, deployment pipelines, and automation.
 
 **Tech Stack**
 
@@ -159,7 +159,7 @@ Practical exploration of cloud infrastructure, containers, deployment pipelines,
 <div align="center">
 
 <a href="https://github.com/manojs923?tab=repositories">
-  <img src="https://img.shields.io/badge/VIEW%20ALL%20PROJECTS-000000?style=for-the-badge&logo=github&logoColor=white" alt="View repositories"/>
+  <img src="https://img.shields.io/badge/VIEW%20ALL%20PROJECTS-000000?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories"/>
 </a>
 
 </div>
@@ -170,10 +170,11 @@ Practical exploration of cloud infrastructure, containers, deployment pipelines,
 
 <div align="center">
 
+<!-- This image appears after the GitHub Actions workflow generates the output branch. -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manojs923/manojs923/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manojs923/manojs923/output/github-contribution-grid-snake.svg"/>
-  <img src="https://raw.githubusercontent.com/manojs923/manojs923/output/github-contribution-grid-snake.svg" width="100%" alt="Animated contribution snake"/>
+  <img src="https://raw.githubusercontent.com/manojs923/manojs923/output/github-contribution-grid-snake.svg" width="100%" alt="Animated GitHub contribution snake"/>
 </picture>
 
 </div>
@@ -199,6 +200,6 @@ Practical exploration of cloud infrastructure, containers, deployment pipelines,
 
 <br/><br/>
 
-**Thanks for visiting my profile!**
+**Thanks for visiting my profile!** ⭐
 
 </div>
