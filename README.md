@@ -6,7 +6,7 @@
 
 <br/>
 
-<a href="https://linkedin.com/in/manoj-sudi">
+<a href="https://linkedin.com/in/manoj-s-44042032b">
   <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/manojs923">
